@@ -168,17 +168,17 @@ review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
 
 [![thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
 
-Design Sprints Repo is maintained and funded by [thoughtbot, inc](http://thoughtbot.com).
+This repo is maintained and funded by [thoughtbot, inc](http://thoughtbot.com).
 Tweet your questions or suggestions to
 [@thoughtbot](https://twitter.com/thoughtbot)
-and while you’re at it follow us too.
+and while you're at it follow us too.
 
 Looking to run your own Design Sprint but want help from someone who has
 experience running them before? [Hire us.](http://thoughtbot.com/hire-us)
 
 ## License
 
-Copyright © 2011–2015 [thoughtbot, inc](http://thoughtbot.com).
+Copyright © 2015 [thoughtbot, inc](http://thoughtbot.com).
 The information contained in Design Sprint is free,
 and may be redistributed under the terms specified in the
 [license](LICENSE.md).
