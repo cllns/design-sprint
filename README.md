@@ -159,15 +159,19 @@ to your own board to help guide and document your sprint.
 * [Gamestorming](http://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) and the [Gamestorming Wiki](http://www.gamestorming.com/the-wiki/)
 * [Good Kickoff Meetings](http://goodkickoffmeetings.com/)
 
+## Contributing
+
+We love new ideas that push this repository and design sprints forward. Please
+review the [contributing guidelines](CONTRIBUTING.md) if you'd like to help out.
 
 ## Credits
 
 [![thoughtbot](http://images.thoughtbot.com/bourbon/thoughtbot-logo.svg)](http://thoughtbot.com)
 
-Bourbon is maintained and funded by [thoughtbot, inc](http://thoughtbot.com).
+Design Sprints Repo is maintained and funded by [thoughtbot, inc](http://thoughtbot.com).
 Tweet your questions or suggestions to
-[@thoughtbot](https://twitter.com/thoughtbot) and while you’re at it follow us
-too.
+[@thoughtbot](https://twitter.com/thoughtbot)
+and while you’re at it follow us too.
 
 Looking to run your own Design Sprint but want help from someone who has
 experience running them before? [Hire us.](http://thoughtbot.com/hire-us)
